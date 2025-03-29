@@ -9,6 +9,7 @@ Python libraries:
 NumPy, Matplotlib
 
 PROGRAM :
+~~~~
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import resample
@@ -44,8 +45,11 @@ plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
 plt.show()
+~~~~
+
 
 OUTPUT WAVEFORM:
+
 ![Screenshot 2025-03-24 080217](https://github.com/user-attachments/assets/319cc06d-de82-4a96-ae77-2d2f588a2252)
 ![Screenshot 2025-03-24 080229](https://github.com/user-attachments/assets/28a3add0-bec9-4613-abe4-970be55b118a)
 ![Screenshot 2025-03-24 080241](https://github.com/user-attachments/assets/4537752d-e2bd-4786-a3b5-2cf2c2a17c7c)
